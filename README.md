@@ -75,7 +75,45 @@ netflix-clustering-analysis/
 ```
 
 ---
+---
 
+# 📸 Project Visualizations
+
+## Release Year Distribution
+
+![Release Year Distribution](Release_Year_Distribution.png)
+
+---
+
+## Word Cloud
+
+![Word Cloud](Word_Cloud.png)
+
+---
+
+## Elbow Method
+
+![Elbow Method](Elbow_Method.png)
+
+---
+
+## K-Means Clustering
+
+![KMeans Clusters](KMeans_Clusters.png)
+
+---
+
+## Top Genres
+
+![Top Genres](Top_Genres.png)
+
+---
+
+## Top Countries
+
+![Top Countries](Top_Countries.png)
+
+---
 ## 👩‍💻 Author
 
 **Sonal Shori**
